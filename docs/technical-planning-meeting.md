@@ -1,4 +1,4 @@
-**[⬅ Back to Coding Culture](README.md)**
+**[⬅ Back to Coding Culture](../README.md)**
 
 # Technical Planning Meetings
 
@@ -38,5 +38,5 @@
 3. We exchange thoughts and ideas, fill in any blanks and compromise where necessary to reach a good solution
 4. We break the work down into small chunks
 5. If the chunks of work are small enough to begin work, raise some Sprintly tickets. Otherwise, arrange for future technical planning meetings to dig deeper into the problem
-6. The developers should leave the meeting and produce a [markdown document](technical-planning-meeting-template.md) covering everything discussed in parts #1 to #4
+6. The developers should leave the meeting and produce a [markdown document](../templates/technical-planning-meeting-template.md) covering everything discussed in parts #1 to #4
 7. Product owners prioritise the work as appropriate

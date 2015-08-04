@@ -1,4 +1,4 @@
-**[⬅ Back to Coding Culture](README.md)**
+**[⬅ Back to Coding Culture](../README.md)**
 
 # Pull Requests
 
@@ -8,7 +8,7 @@ All Pull Requests must be reviewed by one of your peers before it can be merged 
 
 #### Creating a Pull Request Assumes:
 
-1. You have read and understand Doing's [Coding Culture](README.md)
+1. You have read and understand Doing's [Coding Culture](../README.md)
 2. You are working off a git branch named after a corresponding Sprintly ticket
 3. You have merged in the latest master branch and resolved all merge conflicts
 
@@ -17,7 +17,7 @@ All Pull Requests must be reviewed by one of your peers before it can be merged 
 1. Commit and push your Sprintly ticket branch using [Smart Commit messages](git-best-practices.md#smart-commit-messages)
 2. Visit your project's repo on [Github](https://github.com/doinginc) and click **Compare & pull request**
 3. Add a Title that briefly explains the PR
-4. Use the text from our [Pull Request Template](pr-template.md) as the base of your PR comment
+4. Use the text from our [Pull Request Template](../templates/pr-template.md) as the base of your PR comment
 5. Update the PR comment to complete as much information as you can provide
 6. Add a Label of **Ready for Code Review**
 7. Click **Create pull request**

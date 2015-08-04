@@ -1,4 +1,4 @@
-**[⬅ Back to Coding Culture](README.md)**
+**[⬅ Back to Coding Culture](../README.md)**
 
 # JavaScript Best Practices
 

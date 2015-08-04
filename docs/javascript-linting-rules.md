@@ -1,4 +1,4 @@
-**[⬅ Back to Coding Culture](README.md)**
+**[⬅ Back to Coding Culture](../README.md)**
 
 # Javascript Linting Rules
 
@@ -11,7 +11,7 @@ rules are subject to change in the future._
 
 ## Current Rules
 
-These are stored in the [linters](https://raw.githubusercontent.com/doinginc/culture/master/linters) folder in this repository.
+These are stored in the [linters](https://github.com/doinginc/culture/tree/master/linters) folder in this repository.
 
 For an explanation of these rules please refer to the [JSHint documentation](http://jshint.com/docs/options/).
 
@@ -19,7 +19,7 @@ For an explanation of these rules please refer to the [JSHint documentation](htt
 
 ### Adding to your project
 
-Add the .editorconfig, .jshintrc & .jshintrcignore files from the [linters](https://raw.githubusercontent.com/doinginc/culture/master/linters) folder to the root of your project.
+Add the .editorconfig, .jshintrc & .jshintrcignore files from the [linters](https://github.com/doinginc/culture/tree/master/linters) folder to the root of your project.
 
 Then run the following commands to add jshint to your package.json file:
 

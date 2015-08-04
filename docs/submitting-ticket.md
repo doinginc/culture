@@ -1,4 +1,4 @@
-**[⬅ Back to Coding Culture](README.md)**
+**[⬅ Back to Coding Culture](../README.md)**
 
 # Submitting a Ticket
 
@@ -19,7 +19,7 @@ You will need to choose the type of ticket you are going to submit:
 
 ## Creating a New Item
 
-**Please use our [Ticket Template](ticket-template.md) to make sure you are entering all the information we will need to complete the item you are about to create.**
+**Please use our [Ticket Template](../templates/ticket-template.md) to make sure you are entering all the information we will need to complete the item you are about to create.**
 
 To create a new item, click the green "Add item" button in the top right of the header.
 

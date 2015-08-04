@@ -1,4 +1,4 @@
-**[⬅ Back to Coding Culture](README.md)**
+**[⬅ Back to Coding Culture](../README.md)**
 
 # Expedited Procedure
 
@@ -64,7 +64,7 @@ Do we need to break any of the above, if so why?
 
 ## Conclusion
 
-* Summary email to team (Include any revelant PR's/Sprintly's/links).
+* Summary email to team (Include any revelant PR's / Sprintly Ticket's / links).
 * Communication to origin of report; support center or other department.
 
 **[⬆ back to top](#expedited-procedure)**

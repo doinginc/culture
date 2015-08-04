@@ -1,4 +1,4 @@
-**[⬅ Back to Submitting a Ticket](submitting-ticket.md)**
+**[⬅ Back to Submitting a Ticket](../docs/submitting-ticket.md)**
 
 # Ticket Template
 

@@ -1,4 +1,4 @@
-**[⬅ Back to Pull Requests](submitting-pull-request.md)**
+**[⬅ Back to Pull Requests](../docs/submitting-pull-request.md)**
 
 # Pull Request Template
 
@@ -30,7 +30,7 @@ drag_and_drop_asset_here
 ---
 
 #### PR Author:
-- [ ] I have checked the [contributing document](CONTRIBUTING.md) and I'm happy for this to be reviewed
+- [ ] I have checked the [contributing document](https://github.com/doinginc/culture/blob/master/CONTRIBUTING.md) and I'm happy for this to be reviewed
 
 #### PR Reviewer:
 - [ ] I’ve witnessed the work behaving as expected

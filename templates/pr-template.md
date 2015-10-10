@@ -11,11 +11,7 @@ Use the following markdown template when creating a pull request in github.
 
 type_response_here
 
-#### What tests does this PR have?
-
-type_response_here
-
-#### How can be this tested?
+#### How should this be manually tested?
 
 type_response_here
 

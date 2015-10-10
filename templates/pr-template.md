@@ -19,23 +19,10 @@ type_response_here
 
 type_response_here
 
-#### Screenshot or Video _( optional )_
+#### What are the relevant tickets?
 
-drag_and_drop_asset_here
+ticket_numbers_this_addresses
 
 #### What gif best describes how you feel about this work?
 
 drag_and_drop_asset_here
-
----
-
-#### PR Author:
-- [ ] I have checked the [contributing document](https://github.com/doinginc/culture/blob/master/CONTRIBUTING.md) and I'm happy for this to be reviewed
-
-#### PR Reviewer:
-- [ ] I’ve witnessed the work behaving as expected
-- [ ] I’ve checked for coding culture compliance
-- [ ] I’ve checked for appropriate test coverage
-- [ ] I’ve run all the tests locally and they pass
-
-```

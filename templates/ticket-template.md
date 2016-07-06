@@ -21,7 +21,7 @@ _( ticket will not be considered complete unless this list of criteria is met, e
 
 _( e.g. iPhone 6 iOS 8.3 or Google Chrome Version 44.0.2403.89 (64-bit) )_
 
-#### Steps to Duplicate _( required for detects )_:
+#### Steps to Duplicate _( required for defects )_:
 
 _( a step by step guide written for a person who might be looking at this for the first time )_
 

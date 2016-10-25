@@ -1,4 +1,4 @@
-# Doing, Inc. Coding Culture
+# Doing Inc. Coding Culture
 
 ## Overview
 

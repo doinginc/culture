@@ -1,0 +1,39 @@
+{
+  "env": {
+    "browser": false,
+    "node": true,
+    "commonjs": true,
+    "es6": true,
+    "mocha": true
+  },
+  "plugins": [
+    "standard",
+    "mocha"
+  ],
+  "extends": [
+    "standard",
+    "plugin:mocha/recommended"
+  ],
+  "rules": {
+    "mocha/no-pending-tests": "error",
+    "mocha/no-skipped-tests": "error",
+    "mocha/no-global-tests": "error",
+    "mocha/handle-done-callback": "error",
+    "mocha/no-return-and-callback": "error",
+    "mocha/valid-test-description": "error",
+    "mocha/valid-suite-description": "error",
+    "mocha/no-identical-title": "error",
+    "mocha/no-mocha-arrows": "error",
+    "mocha/no-sibling-hooks": "error",
+    "mocha/no-top-level-hooks": "error",
+    "mocha/no-hooks": "error",
+    "mocha/no-hooks-for-single-case": "error",
+    "mocha/no-synchronous-tests": "error",
+
+    "promise/param-names": "error",
+    "promise/always-return": "error",
+    "promise/catch-or-return": "error",
+
+    "no-console": "error"
+  }
+}
